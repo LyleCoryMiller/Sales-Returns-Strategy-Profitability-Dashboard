@@ -41,7 +41,7 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ## Dashboard Preview 📊
 
-![Dashboard Screenshot](./Sales_Returns_Analysis_Dashboard.png)
+![Dashboard Screenshot](./Sales_Performance_Analysis_Dashboard.png)
 
 ## Report Access 📄
 
@@ -56,7 +56,7 @@ This project analyzes sales trends and return patterns to identify financial los
 | `Sales_Returns_Performance_Analysis_Report.pdf`   | Final project report with insights & recommendations                   |
 | `Sales_Performance_Analysis_Dashboard.twbx`       | Tableau workbook for interactive exploration of the dashboard          |
 | `Sales_Returns_Performance_Analysis_Dashboard.png`| Static image preview of the Tableau dashboard                          |
-| `Cleaned_Sales_Performance_Dataset.xlsx`          | Cleaned dataset used for analysis (Excel format)                       ||
+| `Cleaned_Sales_Performance_Dataset.xlsx`          | Cleaned dataset used for analysis (Excel format)                       
 | `README_Sales_Returns_Performance_Analysis.md`    | This README file                                                       |
 
 ---
