@@ -12,13 +12,21 @@ This project analyzes sales trends and return patterns to identify financial los
 ---
 
 ## 📚 Table of Contents
-- [Tools & Technologies Used](#tools-used-)
+- [Objectives](#objectives-)
+- [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
 - [Dashboard Preview](#dashboard-preview-)
 - [Report Access](#report-access-)
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
 - [Final Thoughts](#final-thoughts-)
+
+---
+
+## Objectives 🎯
+- Analyze return rate and financial loss from returned items.
+- Identify high-return product categories and segments.
+- Support decision-making to improve sales performance and reduce losses.
 
 ---
 
