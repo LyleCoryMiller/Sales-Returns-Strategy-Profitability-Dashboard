@@ -23,13 +23,6 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## Table of Contents 📚
-- Analyze return rate and financial loss from returned items.
-- Identify high-return product categories and segments.
-- Support decision-making to improve sales performance and reduce losses.
-
----
-
 ## Tools & Technologies 🛠️
 | Tool        | Use Case                                      |
 |-------------|-----------------------------------------------|
@@ -60,12 +53,10 @@ This project analyzes sales trends and return patterns to identify financial los
 
 | File Name                                         | Description                                                            |
 |---------------------------------------------------|------------------------------------------------------------------------|
-| `Sales_Returns_Performance_Analysis_Report.docx`  | Final project report with insights & recommendations                   |
 | `Sales_Returns_Performance_Analysis_Report.pdf`   | Final project report with insights & recommendations                   |
 | `Sales_Performance_Analysis_Dashboard.twbx`       | Tableau workbook for interactive exploration of the dashboard          |
 | `Sales_Returns_Performance_Analysis_Dashboard.png`| Static image preview of the Tableau dashboard                          |
-| `Cleaned_Sales_Performance_Dataset.xlsx`          | Cleaned dataset used for analysis (Excel format)                       |
-| `Cleaned_Sales_Performance_Dataset.csv`           | Cleaned dataset in CSV format                                          |
+| `Cleaned_Sales_Performance_Dataset.xlsx`          | Cleaned dataset used for analysis (Excel format)                       ||
 | `README_Sales_Returns_Performance_Analysis.md`    | This README file                                                       |
 
 ---
@@ -79,3 +70,8 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ## Final Thoughts 📝
 This project demonstrates core capabilities expected of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
+
+
+>This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
+
+
