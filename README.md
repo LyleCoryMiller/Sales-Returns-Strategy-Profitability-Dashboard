@@ -1,4 +1,7 @@
 # Sales Returns Strategy & Profitability Dashboard | Excel + Tableau
+
+![Dashboard Screenshot](./Sales_Performance_Analysis_Dashboard.png)
+
 _Note: Also listed as “Sales Returns Strategy & Profitability Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
@@ -46,10 +49,6 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## Dashboard Preview 📊
-
-![Dashboard Screenshot](./Sales_Performance_Analysis_Dashboard.png)
-
 ## Report Access 📄
 
 - [📄 View Final Report (PDF)](./Sales_Returns_Performance_Analysis_Report.pdf)
@@ -78,4 +77,4 @@ This project analyzes sales trends and return patterns to identify financial los
 ## Final Thoughts 📝
 This project demonstrates core capabilities expected of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
 
->This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
+> ⚠️ This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
