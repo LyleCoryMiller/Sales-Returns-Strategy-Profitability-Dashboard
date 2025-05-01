@@ -12,8 +12,7 @@ This project analyzes sales trends and return patterns to identify financial los
 ---
 
 ## 📚 Table of Contents
-- [Objectives](#objectives-)
-- [Tools Used](#tools-used-)
+- [Tools & Technologies Used](#tools-used-)
 - [Key Insights](#key-insights-)
 - [Dashboard Preview](#dashboard-preview-)
 - [Report Access](#report-access-)
