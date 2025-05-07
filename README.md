@@ -1,5 +1,7 @@
 # Sales Returns Strategy & Profitability Dashboard | Excel + Tableau
 
+*Identified return-related profit loss drivers and regional patterns using Excel and Tableau for strategic recommendations.*
+
 ![Dashboard Screenshot](./Sales_Performance_Analysis_Dashboard.png)
 
 _Note: Also listed as “Sales Returns Strategy & Profitability Dashboard” on my resume and LinkedIn profile._
